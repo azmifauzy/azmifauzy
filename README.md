@@ -9,4 +9,3 @@ Hi folks, My name Muhammad Azmi Fauzi. I'm open for everyone who wanna talk abou
 More Info about me : 
 - Personal Website : https://azmifauzy.github.io/
 - Instagram : https://instagram.com/azmifxuzy
-- 
