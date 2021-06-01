@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**azmifauzy/azmifauzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi folks, My name Muhammad Azmi Fauzi. I'm open for everyone who wanna talk about Programming.
 
 - 🔭 I’m working as freelancer
