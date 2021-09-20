@@ -7,6 +7,6 @@ Hi folks, My name Muhammad Azmi Fauzi. I'm open for everyone who wanna talk abou
 - ⚡ Fun fact about me? You'll see :)
 
 More Info about me : 
-- Personal Website : https://azmifauzy.github.io/
+- Personal Website : https://azmifxuzy.000webhostapp.com/
 - Instagram : https://instagram.com/azmifxuzy
 - YouTube : https://www.youtube.com/c/azmifxuzy
