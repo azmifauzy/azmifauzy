@@ -1,10 +1,10 @@
 Hi folks, My name Muhammad Azmi Fauzi. I'm open for everyone who wanna talk about Technology, Programming, Music.
 
-- 🔭 I’m working as freelancer.
+- 🔭 I’m working as Fullstack Web Developer.
 - 🌱 I’m very interested about Technology, Programming, Music, Dota2 and many things.
-- 👯 I’m currently learning about Web Programming and Produce Music or Hip hop beat with FL Studio 12.
+- 👯 I’m currently learning about Web Development and Music Production.
 - 😄 I'm natively speak Indonesian and fluently speak English and slightly Russia.
-- ⚡ And forever learner. :)
+- ⚡ And forever student. :)
 
 More Info about me : 
 - Personal Website : https://azmifxuzy.000webhostapp.com/
