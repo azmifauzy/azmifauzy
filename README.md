@@ -4,7 +4,7 @@ Hi folks, My name Muhammad Azmi Fauzi. I'm open for everyone who wanna talk abou
 - 🌱 I’m very interested about Technology, Music and Dota2.
 - 👯 I’m currently learning about Web Development and Music Production.
 - 😄 I'm natively speak Indonesian and fluently speak English and currently studying Russia.
-- ⚡ I'm Machine Learning Enthusiast
+- ⚡ I'm Artificial Intelligence Enthusiast
 
 
 ### Social Media:
