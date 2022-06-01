@@ -2,7 +2,7 @@ Hi folks, My name Muhammad Azmi Fauzi. I'm open for everyone who wanna talk abou
 
 - 🔭 I’m working as Fullstack Web Developer.
 - 🌱 I’m very interested about Technology, Music and Dota2.
-- 👯 I’m currently learning about Web Development and Music Production.
+- 👯 I’m currently learning about Web Development, Machine Learning and Music Production.
 - 😄 I'm natively speak Indonesian and fluently speak English and currently studying Russia.
 - ⚡ I'm Artificial Intelligence Enthusiast
 
