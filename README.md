@@ -9,7 +9,7 @@ Hi folks, My name Muhammad Azmi Fauzi. I'm open for everyone who wanna talk abou
 
 ### Social Media:
 
-<img align="left" alt="Azmifauzy | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="facebook.com/alliensec" _blank><img align="left" alt="Azmifauzy | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 <img align="left" alt="Azmifauzy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 <img align="left" alt="Azmifauzy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <br />
